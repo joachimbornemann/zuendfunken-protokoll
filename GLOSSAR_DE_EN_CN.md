@@ -87,4 +87,3 @@ DE: Unverzichtbare Einbindung menschlicher Aufsicht, Ethik und Intuition in auto
 EN: The essential inclusion of human oversight, ethics, and intuition in autonomous or AI-driven decision processes.
 
 CN: 在自主或人工智能驱动的决策过程中，必不可少地包含人的监督、伦理和直觉。
-
