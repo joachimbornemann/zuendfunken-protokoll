@@ -1,3 +1,6 @@
+> **Neu hier?** Beginne mit der Laienfassung in einfacher Sprache:
+> [klartext/ZFP-Klartext_v1.0.md](klartext/ZFP-Klartext_v1.0.md)
+> Alle Begriffe erklärt das [ZFP-Glossar v1.0](klartext/ZFP-Glossar_v1.0.md).
 # ⚡ THE SPARK PROTOCOL | ZÜNDFUNKEN-PROTOKOLL | 《星火协议》
 **Version 2.7 (January 2026) – A Global Framework for Human-AI Resonance**
 
